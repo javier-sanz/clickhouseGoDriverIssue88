@@ -1,2 +1,2 @@
 # clickhouseGoDriverIssue88
-Code that shows https://github.com/kshvakov/clickhouse/issues/88
+Code that tests issue https://github.com/kshvakov/clickhouse/issues/88
