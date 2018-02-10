@@ -1,0 +1,45 @@
+{
+	"ImportPath": "clickhouseDriverIssue88",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v79",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/kshvakov/clickhouse",
+			"Comment": "v1.3.1-1-g95e4a6a",
+			"Rev": "95e4a6a9dd85f7b58c2db7d0dc820fd937bf7abf"
+		},
+		{
+			"ImportPath": "github.com/kshvakov/clickhouse/lib/binary",
+			"Comment": "v1.3.1-1-g95e4a6a",
+			"Rev": "95e4a6a9dd85f7b58c2db7d0dc820fd937bf7abf"
+		},
+		{
+			"ImportPath": "github.com/kshvakov/clickhouse/lib/column",
+			"Comment": "v1.3.1-1-g95e4a6a",
+			"Rev": "95e4a6a9dd85f7b58c2db7d0dc820fd937bf7abf"
+		},
+		{
+			"ImportPath": "github.com/kshvakov/clickhouse/lib/data",
+			"Comment": "v1.3.1-1-g95e4a6a",
+			"Rev": "95e4a6a9dd85f7b58c2db7d0dc820fd937bf7abf"
+		},
+		{
+			"ImportPath": "github.com/kshvakov/clickhouse/lib/protocol",
+			"Comment": "v1.3.1-1-g95e4a6a",
+			"Rev": "95e4a6a9dd85f7b58c2db7d0dc820fd937bf7abf"
+		},
+		{
+			"ImportPath": "github.com/kshvakov/clickhouse/lib/types",
+			"Comment": "v1.3.1-1-g95e4a6a",
+			"Rev": "95e4a6a9dd85f7b58c2db7d0dc820fd937bf7abf"
+		},
+		{
+			"ImportPath": "github.com/kshvakov/clickhouse/lib/writebuffer",
+			"Comment": "v1.3.1-1-g95e4a6a",
+			"Rev": "95e4a6a9dd85f7b58c2db7d0dc820fd937bf7abf"
+		}
+	]
+}
